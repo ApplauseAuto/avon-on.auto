@@ -1,0 +1,22 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "iPhone 8",
+  "deviceClass": "iphone",
+  "os": "iOS",
+  "osVersion": "12.3.1",
+  "manufacturer": "Apple",
+  "driverProvider": "LOCAL_IOS_NATIVE",
+  "factoryConfigKey": "IOS",
+  "hubUrl": "local",
+  "caps": {
+    "automationName": "XCUITest",
+    "newCommandTimeout": "300",
+    "deviceName": "iPhone 8",
+    "platformName": "iOS",
+    "fullReset": "true",
+    "udid": "b68e55c1c99d2309e482c56c8e9e213f030dc522",
+    "app": "/Users/sergiilisovskyi/Documents/applause/avon/avon_apps/avon-on-hockey.ipa",
+    "agentPath": "/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent/WebDriverAgent.xcodeproj",
+    "bootstrapPath": "/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "iPhone 7",
+  "deviceClass": "iphone",
+  "os": "iOS",
+  "osVersion": "11+",
+  "manufacturer": "Apple",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "IOS",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "phoneOnly": "true",
+    "privateDevicesOnly": "false",
+    "deviceName": "iPhone 7.*",
+    "automationName": "XCUITest"
+  }
+}

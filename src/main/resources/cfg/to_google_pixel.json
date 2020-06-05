@@ -1,0 +1,18 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "Google Pixel",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "9.0",
+  "manufacturer": "Google",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "phoneOnly": "true",
+    "privateDevicesOnly": "false",
+    "deviceName": "Google Pixel.*",
+    "nativeWebScreenshot": "true",
+    "automationName": "uiautomator2"
+  }
+}

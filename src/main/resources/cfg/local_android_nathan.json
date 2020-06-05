@@ -1,0 +1,20 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "WUJ01NJ7KM",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "6.0",
+  "manufacturer": "Pixel",
+  "driverProvider": "LOCAL_ANDROID_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "local",
+  "caps": {
+    "platformName": "Android",
+    "device": "android",
+    "deviceName": "Pixel",
+    "autoAcceptAlerts": "true",
+    "newCommandTimeout": "6000",
+    "app": "c:/selenium/AvonOn.apk",
+    "noReset": "true"
+  }
+}

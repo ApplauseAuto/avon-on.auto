@@ -1,0 +1,21 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "Galaxy S8",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "9",
+  "manufacturer": "Samsung",
+  "driverProvider": "LOCAL_ANDROID_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "local",
+  "caps": {
+    "automationName": "UIAutomator2",
+    "platformName": "Android",
+    "device": "android",
+    "deviceName": "Galaxy S8",
+    "autoAcceptAlerts": "true",
+    "newCommandTimeout": "6000",
+    "app": "/Users/sergiilisovskyi/Documents/applause/avon/avon_apps/app-uat-release.apk",
+    "fullReset": "true"
+  }
+}

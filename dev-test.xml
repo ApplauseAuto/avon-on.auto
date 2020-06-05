@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Dev Test" verbose="1" thread-count="1">
+    <test name="dev test" preserve-order="true">
+        <classes>
+            <class name="com.applause.auto.test.login.LoginRelaunchAppAndEnterPinTest"/>
+        </classes>
+    </test>
+</suite>

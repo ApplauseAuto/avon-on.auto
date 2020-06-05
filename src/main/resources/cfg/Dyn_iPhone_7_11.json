@@ -1,0 +1,20 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "iPhone 7",
+  "deviceClass": "iphone",
+  "os": "iOS",
+  "osVersion": "11",
+  "manufacturer": "Apple",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "IOS",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "platformName": "iOS",
+    "phoneOnly": "true",
+    "privateDevicesOnly": "false",
+    "deviceName": "iPhone 7.*",
+    "platformVersion": "11",
+    "noReset": "true",
+    "appiumVersion": "1.16.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "iPhone 6s",
+  "deviceClass": "iphone",
+  "os": "iOS",
+  "osVersion": "10.15",
+  "manufacturer": "Apple",
+  "driverProvider": "LOCAL_IOS_NATIVE",
+  "factoryConfigKey": "IOS",
+  "hubUrl": "local",
+  "caps": {
+    "automationName": "XCUITest",
+    "newCommandTimeout": "300",
+    "deviceName": "Olga’s iPhone",
+    "platformName": "iOS",
+    "fullReset": "true",
+    "udid": "00008020-00182DE20E92002E",
+    "app": "/Users/olgaliutsko/Downloads/AvonOn_1.3.0-Resigned.ipa",
+    "platformVersion": "13.1.2"
+  }
+}

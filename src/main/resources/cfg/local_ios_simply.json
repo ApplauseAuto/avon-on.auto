@@ -1,0 +1,21 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "iPhone 6s",
+  "deviceClass": "iphone",
+  "os": "iOS",
+  "osVersion": "10.2.1",
+  "manufacturer": "Apple",
+  "driverProvider": "LOCAL_IOS_NATIVE",
+  "factoryConfigKey": "IOS",
+  "hubUrl": "local",
+  "caps": {
+    "automationName": "XCUITest",
+    "newCommandTimeout": "300",
+    "deviceName": "iPhone x",
+    "platformName": "iOS",
+    "noReset": "true",
+    "udid": "6bcb821f4fb2f644aeb74fdbb523ebc83463bf4f",
+    "app": "/Users/hmcconnell/Resign/jd/SimplyBe-Resigned.ipa",
+    "automationName": "XCUITest"
+  }
+}

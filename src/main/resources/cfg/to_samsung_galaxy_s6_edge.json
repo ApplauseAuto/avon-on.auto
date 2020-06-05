@@ -1,0 +1,18 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "Samsung Galaxy S6 Edge",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "7.0",
+  "manufacturer": "Samsung",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "phoneOnly": "true",
+    "privateDevicesOnly": "false",
+    "deviceName": "Samsung Galaxy S6.*",
+    "nativeWebScreenshot": "true",
+    "automationName": "uiautomator2"
+  }
+}

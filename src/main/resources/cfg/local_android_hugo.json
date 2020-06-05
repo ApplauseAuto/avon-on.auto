@@ -1,0 +1,21 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "WUJ01NJ7KM",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "6.0",
+  "manufacturer": "Nexus",
+  "driverProvider": "LOCAL_ANDROID_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "local"
+  "caps": {
+    "automationName": "UIAutomator2",
+    "platformName": "Android",
+    "device": "android",
+    "deviceName": "9889db444831465051",
+    "autoAcceptAlerts": "true",
+    "newCommandTimeout": "6000",
+    "app": "/Users/hmcconnell/Downloads/Avon.apk",
+    "fullReset": "true"
+  }
+}

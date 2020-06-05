@@ -1,0 +1,25 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "Dynamic",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "7",
+  "manufacturer": "Google",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "region": "EU",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "platformName": "Android",
+    "phoneOnly": "true",
+    "privateDevicesOnly": "false",
+    "platformVersion": "7",
+    "nativeWebScreenshot": "true",
+    "recreateChromeDriverSessions": "true",
+    "automationName": "uiautomator2",
+    "unicodeKeyboard": "true",
+    "resetKeyboard": "true",
+    "noReset": "true",
+    "appiumVersion": "1.16.0"
+  }
+}

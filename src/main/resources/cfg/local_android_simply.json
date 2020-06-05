@@ -1,0 +1,20 @@
+{
+  "deviceType": "localnative",
+  "deviceName": "WUJ01NJ7KM",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "6.0",
+  "manufacturer": "Nexus",
+  "driverProvider": "LOCAL_ANDROID_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "local"
+  "caps": {
+    "platformName": "Android",
+    "platformVersion": "7.0",
+    "device": "android",
+    "deviceName": "S4ZSBUFUU4PZBYPB",
+    "autoAcceptAlerts": "true",
+    "newCommandTimeout": "6000",
+    "app": "/Users/hmcconnell/Downloads/app-simplyBe-release.apk"
+  }
+}

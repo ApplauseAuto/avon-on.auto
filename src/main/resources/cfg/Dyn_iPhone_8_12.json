@@ -1,0 +1,20 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "iPhone 8",
+  "deviceClass": "iphone",
+  "os": "iOS",
+  "osVersion": "12",
+  "manufacturer": "Apple",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "IOS",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "platformName": "iOS",
+    "phoneOnly": "true",
+    "privateDevicesOnly": "false",
+    "deviceName": "iPhone 8.*",
+    "platformVersion": "12",
+    "noReset": "true",
+    "appiumVersion": "1.16.0"
+  }
+}

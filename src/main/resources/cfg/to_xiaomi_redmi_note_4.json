@@ -1,0 +1,16 @@
+{
+  "deviceType": "testobjectnative",
+  "deviceName": "Xiaomi Redmi Note 4",
+  "deviceClass": "androidphone",
+  "os": "Android",
+  "osVersion": "7.0",
+  "manufacturer": "Xiaomi",
+  "driverProvider": "TEST_OBJECT_NATIVE",
+  "factoryConfigKey": "ANDROID",
+  "hubUrl": "https://eu1.appium.testobject.com/wd/hub",
+  "caps": {
+    "testobject_device": "Xiaomi_Redmi_Note_4_real",
+    "nativeWebScreenshot": "true",
+    "automationName": "uiautomator2"
+  }
+}
