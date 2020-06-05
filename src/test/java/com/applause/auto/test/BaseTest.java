@@ -2,6 +2,7 @@ package com.applause.auto.test;
 
 import static com.applause.auto.pageframework.testdata.TestConstants.Timeouts.THREE_SECONDS_MILLI;
 
+import com.applause.auto.framework.test.listeners.TestListener;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -23,7 +24,6 @@ import com.applause.auto.pageframework.testdata.ExcelReader;
 import com.applause.auto.pageframework.testdata.Market;
 import com.applause.auto.pageframework.testdata.TestConstants.TestData;
 import com.applause.auto.pageframework.testdata.TestConstants.Timeouts;
-import com.applause.auto.pageframework.utils.AvonTestListener;
 import com.applause.auto.pageframework.utils.LogHelper;
 import com.applause.auto.pageframework.views.LoginView;
 import com.applause.auto.pageframework.views.PinView;
@@ -31,7 +31,7 @@ import com.applause.auto.pageframework.views.SelectMarketView;
 
 import io.appium.java_client.AppiumDriver;
 
-@Listeners(AvonTestListener.class)
+@Listeners(TestListener.class)
 public class BaseTest {
 
   protected static final LogHelper LOGGER = LogHelper.getInstance();
